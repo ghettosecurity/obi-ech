@@ -19,15 +19,15 @@ content_list = content_clean3.split("\n")
 #print content_list
 
 count = len(open(filename).readlines())
-print count
+print "Number of Cmds: " + str(count)
 
 while True: 
     inty = random.randint(1,count)
-    print inty +1
+    print "CMD ID: " + str(inty +1)
 
     lines = f.readlines()
     cmd = content_list[inty]
-    print content_list[inty]
+    print  "CMD Text: " + content_list[inty]
     #readline(inty)
     
     engine = pyttsx3.init(driverName='sapi5')
