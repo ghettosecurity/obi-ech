@@ -27,9 +27,9 @@ Implements a simple version of alexa-obscure code with version 1 of pyttsx.
     
 alexa-obscure-with-pyttsx3.py
 ------------------------------
-Implements a simple version of alexa-obscure code with version 1 of pyttsx. 
+Implements a simple version of alexa-obscure code with version 3 of pyttsx (pyttsx3). 
 
- Install Pre-req's: 
+    Install Pre-req's: 
     ------------------
     Anaconda with python 2.7
     pip install pyttsx3
