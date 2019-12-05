@@ -18,6 +18,7 @@ Implements a simple version of alexa-obscure code with version 1 of pyttsx.
     Anaconda with python 2.7
     pip install pyttsx
     pip install gTTS
+    pip install pyaudio
 
 
     Usage: 
@@ -34,7 +35,7 @@ Implements a simple version of alexa-obscure code with version 3 of pyttsx (pytt
     Anaconda with python 2.7
     pip install pyttsx3
     pip install gTTS
-
+    pip install pyaudio
 
     Usage: 
     -----------------
