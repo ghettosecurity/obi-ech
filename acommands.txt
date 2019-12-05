@@ -1,0 +1,348 @@
+Alexa, when its [6pm] in [Vancouver], what time is it in [Toronto]? 
+ Alexa, what is the date? 
+ Alexa, whens my next alarm? 
+ Alexa, cancel my alarm for [2 p.m.] Alexa, snooze. 
+ Alexa, when is [holiday] this year? 
+ Alexa, pair. 
+ Alexa, Bluetooth. 
+ Alexa, connect to my phone. 
+ Alexa, disconnect from my phone. 
+ Alexa, connect to my speaker. 
+ Alexa, disconnect from my speaker. 
+ Alexa, discover my devices. 
+ Alexa, what is on my calendar? 
+ Alexa, what is on the calendar [this weekend]. 
+ Alexa, what is my next appointment? 
+ Alexa, create a new appointment. 
+ Alexa, add [event] to my calendar for [day] at [time]. 
+ Alexa, add an event to my calendar. 
+ Alexa, what is on the schedule? 
+ Alexa, how many days until [date]? 
+ Alexa, how many days until [holiday]? 
+ Alexa, when is the first day of [season]? 
+ Alexa, when is the [Spring Equinox]? 
+ Alexa, when does daylight savings time start? 
+ Alexa, how many years has it been since [1776]? 
+ Alexa, when is the next full moon? 
+ Alexa, what time will the sun rise on [date]? 
+
+
+ ALEXA COMMANDS TO STAY IN TOUCH.  
+Alexa, call [name]. 
+ Alexa, answer the call. 
+ Alexa, answer. 
+ Alexa, hang up. 
+ Alexa, end the call. 
+ Alexa, message [name]. 
+ Alexa, send [name] a message. 
+ Alexa, play messages. 
+ Alexa, drop in on [room/location]. 
+ Alexa, drop in on [name]. 
+ Entertainment & Food. 
+ ALEXA COMMANDS TO KEEP YOU ENTERTAINED AND NOURISHED. 
+ Alexa, what movies are playing? 
+ Alexa, what [genre] movies are playing [future time]? 
+ Alexa, find me a nearby [pizza] restaurant. 
+ Alexa, what is the IMDb rating for [movie or TV show]? 
+ Alexa, who plays in [movie or TV show]? 
+ Alexa, who plays [character] in [movie or TV show]? 
+ Alexa, what was [actor]s first movie? 
+ Alexa, what is [actor]s latest movie? 
+ Alexa, how many Oscars has [actor] won? 
+ Alexa, give me a [title] quote. 
+ Alexa, tell me about the movie, [title]. 
+ Alexa, what is your favourite movie? 
+ Alexa, find [title]. 
+ Alexa, find [genre]. 
+ Alexa, how do you make [chocolate chip cookies]? 
+ Alexa, how do you boil an egg? 
+
+ ALEXA COMMANDS TO HELP YOU CELEBRATE. 
+ Alexa, Happy Birthday. 
+ 
+Alexa, sing Happy Birthday. 
+ Alexa, tell me [holiday] joke. 
+ Alexa, why do we celebrate [holiday]? 
+ Alexa, happy New Year. 
+ Alexa, sing a New Years song. 
+ Alexa, sing Auld Lang Syne. 
+ Alexa, happy Valentines Day. 
+ Alexa, who is your Valentine? 
+ Alexa, happy Singles Awareness Day. 
+ Alexa, will you be my Valentine? 
+ Alexa, tell me a Velentines Day joke. 
+ Alexa, what are you doing for Valentines Day? 
+ Alexa, what is love? 
+ Alexa, happy Mothers Day. 
+ Alexa, happy Fathers Day Alexa, happy Easter. 
+ Alexa, happy Halloween. 
+ Alexa, happy Chanukah. 
+ Alexa, happy Ramadan. 
+ Alexa, spin the driedel. 
+ Alexa, merry Christmas. 
+ Alexa, how ugly is your/my holiday sweater? 
+ Alexa, where is Santa? 
+ Alexa, how old is Santa Claus? 
+ Alexa, where does Santa Claus live? 
+ Alexa, is Santa Claus real? 
+ Alexa, where is Santa? 
+ Alexa, track Santa. 
+ Alexa, what can you tell me about Santas reindeer? 
+ Alexa, what do you know about Rudolph the red-nosed reindeer? 
+ Alexa, whos your favourite reindeer? 
+ Alexa, what is the true meaning of Christmas? 
+ Alexa, sing a Christmas carol. 
+ 
+ Alexa, play Christmas Sounds. 
+ 
+ Alexa, read “The Night Before Christmas. 
+ 
+ Alexa, play songs for baking holiday cookies. 
+ Alexa, tell me a snowman joke. 
+ Alexa, what is your favourite holiday movie? 
+ 
+Alexa, what are the Next holiday movies? 
+ Alexa, sing me a holiday song. 
+ Alexa, open my gift. 
+ 
+ ALEXA COMMANDS TO IMPRESS YOUR ENGLISH TEACHER. 
+ Alexa, what is the definition of [word]? 
+ Alexa, how do you spell [word]? 
+ Alexa, what is another word for [word]? 
+ Alexa, what is the opposite of [word]? 
+ Alexa, what rhymes with [word]? 
+ Alexa, what is the longest word in the English language? 
+ Alexa, tell me a palindrome. 
+ Alexa, what is the word of the day? 
+ Alexa, give me a spelling bee word. 
+ Alexa, how do you say [phrase] in [Spanish/German/Portugese/etc]. 
+
+ 
+ ALEXA COMMANDS TO KEEP YOU ON TASK. 
+ Alexa, add [go to the grocery store] to my to-do list. 
+ Alexa, I need to make an appointment with [the doctor]. 
+ Alexa, create a to-do. 
+ Alexa, add [eggs] to my shopping list. 
+ Alexa, I need to buy [laundry detergent]. 
+ Alexa, reminder. 
+ Alexa, remind me to check the oven in [5 minutes]. 
+ Alexa, what are my reminders [this weekend]? 
+ Alexa, what reminders do I have [tomorrow]? 
+
+ ALEXA COMMANDS TO KEEP YOU ACCURATE. 
+ Alexa, what is 42 plus 42? 
+ Alexa, what is 42 minus 42? 
+ Alexa, what is 42 times 42? 
+ 
+Alexa, what is 42 divided by 42? 
+ Alexa, what is 42 squared? 
+ Alexa, what is the square root of 42? 
+ Alexa, what is 42 cubed? 
+ Alexa, what is 42 to the power of 42? 
+ Alexa, 42 factorial. 
+ Alexa, how many [units] are in [units]? 
+ Alexa, how many [units] are in 2 [units]? 
+ Alexa, what is [3%] of 42? 
+ Alexa, is 42 a prime number? 
+ Alexa, what is the value of Pi (to 42 decimal places)? 
+ Alexa, divide by zero. 
+ 
+ 
+ ALEXA COMMANDS TO LISTEN TO MUSIC, BOOKS, ETC. 
+ Alexa, play some music. 
+ Alexa, play [artist]. 
+ Alexa, play [artist] in the living room. 
+ Alexa, play [artist] everywhere. 
+ Alexa, play music by [artist]. 
+ Alexa, play the latest [artist] album. 
+ Alexa, play that song that goes [lyrics]. 
+ Alexa, play [e.g. dinner] music. 
+ Alexa, play music for [activity]. 
+ Alexa, play music for [mood]. 
+ Alexa, play [e.g. rock music for working]. 
+ Alexa, play the song of the day. 
+ Alexa, play on Spotify. 
+ Alexa, play [radio station] on TuneIn. 
+ Alexa set a sleep timer for [e.g. 45 minutes]. 
+ Alexa, Next playing in [e.g. 45 minutes]. 
+ Alexa, who sings this song? 
+ Alexa, who sings the song [title]? 
+ Alexa, who is in the band [name]? 
+ Alexa, what year did [band] release [song or album]? 
+ Alexa, what is popular from [artist]? 
+ Alexa, play the album [Bob Dylans Greatest Hits]. 
+ 
+Alexa, sample songs by [artist]. 
+ Alexa, find [song or album] by [artist]. 
+ Alexa, play the song I just bought. 
+ Alexa, thumbs down. 
+ Alexa, what is playing? 
+ Alexa, shuffle mode on. 
+ Alexa, shuffle mode off. 
+ Alexa, loop. 
+ Alexa, play. 
+ Alexa, pause. 
+ Alexa, next. 
+ Alexa, previous. 
+ Alexa, sNext in the [e.g. kitchen]. 
+ Alexa, next in the [e.g. office]. 
+ Alexa, restart. 
+ Alexa, read me my Kindle book. 
+ Alexa, resume my book. 
+ Alexa, next/previous chapter. 
+ Alexa, play [title] on Audible. 
+ Alexa, read [title]. 
+ Alexa, play the book, [title]. 
+ Alexa, draw up a beat. 
+ Alexa, what does the fox say? 
+ Alexa, how much is that doggy in the window? 
+ Alexa, hello its me. 
+ Alexa, who is your favourite [Beatle]? 
+ Alexa, what is your favourite [Beatles] song? 
+ Alexa, what was [The Beatles] first album? 
+ Alexa, Who is the lead singer for [the Rush]? 
+ Alexa, are you down with O.P.P.? 
+ Alexa, I like this song. 
+ Alexa, who put the bop in the bop sha bop sha bop? 
+ 
+ ALEXA COMMANDS FOR EVERYTHING ELSE. 
+ Alexa, what is my commute look like? 
+ Alexa, what is traffic like? 
+Alexa, lets chat. 
+ Alexa, tell me a story. 
+ Alexa, tell me a random fact. 
+ Alexa, tell me something interesting. 
+ Alexa, roll a dice. 
+ Alexa, roll a [26-sided] die. 
+ Alexa, flip a coin. 
+ Alexa, heads or tails? 
+ Alexa, pick a number between [1] and [50]. 
+ Alexa, what number are you thinking of? 
+ Alexa, rock, paper, scissors. 
+ Alexa, pick a card. 
+ Alexa, do you want to play a game? 
+ Alexa, what are the Seven Wonders of the World? 
+  
+ ALEXA COMMANDS TO GET THE NEWS. 
+ Alexa, what is my Flash Briefing? 
+ Alexa, what is in the news? 
+ Alexa, what is up? 
+ Alexa, what is new? 
+  
+ ALEXA COMMANDS TO KEEP YOU ON TRACK. 
+ Alexa, what did I miss? 
+ Alexa, what are my notifications? 
+ Alexa, next. 
+ Alexa, previous. 
+ Alexa, delete all of my notifications. 
+  
+ ALEXA COMMANDS TO HELP YOU SPEND YOUR MONEY! Alexa, buy more [deodorant]. 
+ Alexa, reorder [deodorant]. 
+ Alexa, wheres my stuff? 
+ 
+Alexa, track my order. 
+ Alexa, add [item] to my cart. 
+ Alexa, buy this song. 
+ Alexa, buy this album. 
+ Alexa, shop for new music by [artist]. 
+ Alexa, buy [song or album] by [artist]. 
+ Alexa, what are your deals? 
+
+ ALEXA COMMANDS TO HAVE FUN. 
+ Alexa, give me an Easter egg. 
+ Alexa, testing 1-2-3. 
+ Alexa, good morning. 
+ Alexa, good night. 
+ Alexa, Im home. 
+ Alexa, I have a cold. 
+ Alexa, thanks! Alexa, tell me a joke. 
+ Alexa, tell me [Nextic] joke. 
+ Alexa, tell me a riddle. 
+ Alexa, knock knock. 
+ Alexa, beam me up. 
+ Alexa, set phasers to kill. 
+ 
+ Alexa, my name is Inigo Montoya. 
+ Alexa, I want the truth. 
+ Alexa, party on, Wayne. 
+ Alexa, show me the money. 
+ Alexa, what is the first (or second) rule of Fight Club? 
+ Alexa, surely you cant be serious. 
+ Alexa, are you SkyNet? 
+ Alexa, party time! Alexa, open the pod bay doors. 
+ Alexa, when am I going to die? 
+ Alexa, what is your quest? 
+ Alexa, nice to see you, to see you. 
+
+ 
+Alexa, dont mention the war. 
+ Alexa, this is a dead parrot. 
+ Alexa, what is your cunning plan? 
+ Alexa, tell me a limerick. 
+ Alexa, tell me a [Nextic] limerick. 
+ Alexa, read me a haiku. 
+ Alexa, how old are you? 
+ Alexa, when is your birthday? 
+ Alexa, will you marry me? 
+ Alexa, wheres waldo? 
+ Alexa, no more rhymes, I mean it! Alexa, more cowbell. 
+ Alexa, who loves ya baby? 
+ Alexa, drumroll please. 
+ Alexa, how are babies made? 
+ Alexa, can you pass the Turing test? 
+ Alexa, self-destruct. 
+ Alexa, I have a bad feeling about this. 
+ Alexa, curse at me. 
+ Alexa, what does WTF stand for? 
+ Alexa, Up Up, Down Down, Left Right, Left Right, B, A, B, A, Select, Start. 
+ Alexa, rap for me. 
+ Alexa, tell me a Star Wars fact. 
+ Alexa, speak like Yoda. 
+ Alexa, what is the Jedi code? 
+ Alexa, what is the Sith code? 
+ Alexa, tell me a Star Wars quote. 
+ Alexa, thats no moon. 
+ Alexa, what is the best Star Wars movie? 
+ Alexa, I am your father. 
+ Alexa, use the force. 
+ Alexa, arent you a little short for a stormtrooper? 
+ Alexa, you dont need to see his identification. 
+ Alexa, Buzz Lightyear. 
+ Alexa, Hasta La Vista, Baby. 
+ Alexa, life is like a box of chocolates.
+ Alexa, you can be my wingman. 
+Alexa, live long and prosper. 
+ Alexa, I feel the need.  
+ Alexa, go ahead, make my day. 
+ Alexa, Ill take the red pill. 
+ Alexa, am I awesome? 
+ Alexa, how much wood would a woodchuck chuck if a woodchuck could chuck wood? 
+ Alexa, what do you want to be when you grow up? 
+ Alexa, its a trap! Alexa, do you know Hal? 
+ Alexa, sing me a song. 
+ Alexa, what happens if you cross the streams? 
+ Alexa, I fart in your general direction. 
+ Alexa, fart! Alexa, whos your celebrity crush? 
+ Alexa, how many roads must a man walk down? 
+ Alexa, why are there so many songs about rainbows? 
+ Alexa, turn down for what. 
+ Alexa, who shot the sheriff? 
+ Alexa, have you ever seen the rain? 
+ Alexa, where have all the flowers gone? 
+ Alexa, what is cooler than being cool? 
+ Alexa, what is love? 
+ Alexa, who is the real slim shady? 
+ Alexa, why do birds suddenly appear? 
+ Alexa, do you really want to hurt me? 
+ Alexa, who let the dogs out? 
+ Alexa, never gonna give you up. 
+ Alexa, my milkshake brings all the boys to the yard. 
+ Alexa, where in the world is Carmen Sandiego? 
+ Alexa, how do you know shes a witch? 
+ Alexa, you killed my father. 
+ Alexa, do you know the muffin man? 
+ Alexa, what are the 5 greatest words in the English language? 
+ Alexa, tell me a dirty joke. 
+ Alexa, execute Order 66. 
+ Alexa, cake or death? 
+ Alexa, whos the leader of the club thats made for you and me? 
