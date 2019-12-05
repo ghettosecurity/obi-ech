@@ -1,8 +1,5 @@
-# MIS511
-UofA MIS511-Privacy
+# MIS511 - Privacy, Obfuscation, Social and Ethical Issues of the Internet
 
-alexa-obsure.py 
----------------
 Obfuscates alexa dot/echo/auto/etc. smart devices by announcing random Alexa Smart Commands to any Alexa device. Source Code can be modified for other privacy intrusive technologies such as Google, Bixby, Siri, and more. This program attempts to obfuscate the following: 
 
 1) Voice (via pyttsx voices)
@@ -12,16 +9,36 @@ Obfuscates alexa dot/echo/auto/etc. smart devices by announcing random Alexa Sma
 5) Number of People (via voice genders, rates, dialects) 
 6) Age of Commander (via voice genders, rates, dialects)
 
+alexa-obsure.py 
+---------------
+Implements a simple version of alexa-obscure code with version 1 of pyttsx. 
+
+    Install Pre-req's: 
+    ------------------
+    Anaconda with python 2.7
+    pip install pyttsx
+    pip install gTTS
 
 
-Install Pre-req's: 
-------------------
-pip install pyttsx
-pip install pyttsx3
-pip install gTTS
-conda install
+    Usage: 
+    -----------------
+    python alexa-obscure.py
+    
+    
+alexa-obscure-with-pyttsx3.py
+------------------------------
+Implements a simple version of alexa-obscure code with version 1 of pyttsx. 
+
+ Install Pre-req's: 
+    ------------------
+    Anaconda with python 2.7
+    pip install pyttsx3
+    pip install gTTS
 
 
-Usage: 
------------------
-python alexa-obscure.py
+    Usage: 
+    -----------------
+    python alexa-obscure-with-pyttsx3.py
+
+
+
