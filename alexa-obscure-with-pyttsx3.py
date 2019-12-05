@@ -42,7 +42,7 @@ while True:
     volume = engine.getProperty('volume')
     engine.setProperty('volume', volume-0.25)
 
-    if "'" or "(" or ")" or "[" or "]" or '"' in cmd:
+    if "'" or "(" or ")" or "[" or "]" or '"' or "#" in cmd:
         pass
         engine.say(cmd)
         engine.runAndWait()
