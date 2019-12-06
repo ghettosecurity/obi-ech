@@ -19,8 +19,34 @@ content_list = content_clean3.split("\n")
 #print content_list
 
 count = len(open(filename).readlines())
-print "Number of Cmds: " + str(count)
+print "Number of Cmds: " + str(count)        
 
+
+class _TTS:
+    engine = None
+    rate = None
+    def __init__(self):
+        self.engine = pyttsx3.init(driverName='sapi5')
+
+    def start(self,text):
+        #Speech Cadence/rate 
+        rate = self.engine.getProperty('rate')
+        cadence = random.randint(90,220)
+        print("cadence:" + str(cadence))
+        self.engine.setProperty('rate', cadence) # 100-220  (150 is best)
+
+        #Speech Volume 
+        volume = self.engine.getProperty('volume')
+        self.engine.setProperty('volume', volume-0.25)
+
+        self.engine.say(text)
+        self.engine.runAndWait()
+
+        ###engine = pyttsx3.init(driverName='sapi5')
+        ###engine.say(cmd)
+        ###engine.runAndWait()
+                
+                
 while True: 
     inty = random.randint(1,count)
     print "CMD ID: " + str(inty +1)
@@ -30,8 +56,8 @@ while True:
     print  "CMD Text: " + content_list[inty]
     #readline(inty)
     
-    engine = pyttsx3.init(driverName='sapi5')
-    
+    ###engine = pyttsx3.init(driverName='sapi5')
+    """
     #Speech Cadence/rate 
     rate = engine.getProperty('rate')
     cadence = random.randint(90,220)
@@ -41,13 +67,14 @@ while True:
     #Speech Volume 
     volume = engine.getProperty('volume')
     engine.setProperty('volume', volume-0.25)
-
+    """
+    
+    
     if "'" or "(" or ")" or "[" or "]" or '"' or "#" in cmd:
         pass
-        engine.say(cmd)
-        engine.runAndWait()
+        tts = _TTS()
+        tts.start(cmd)
+        del(tts)      
     
         sleep(randint(1,5))
-    
-    
     
