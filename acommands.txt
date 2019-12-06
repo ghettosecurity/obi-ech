@@ -25,7 +25,7 @@ Alexa, when its [6pm] in [Vancouver], what time is it in [Toronto]?
  Alexa, how many years has it been since [1776]? 
  Alexa, when is the next full moon? 
  Alexa, what time will the sun rise on [date]? 
- ###############ALEXA COMMANDS TO STAY IN TOUCH.  ###############
+ #ALEXA COMMANDS TO STAY IN TOUCH.  #
 Alexa, call [name]. 
  Alexa, answer the call. 
  Alexa, answer. 
@@ -36,7 +36,7 @@ Alexa, call [name].
  Alexa, play messages. 
  Alexa, drop in on [room/location]. 
  Alexa, drop in on [name]. 
- ###############ALEXA COMMANDS TO KEEP YOU ENTERTAINED AND NOURISHED. ###############
+ #ALEXA COMMANDS TO KEEP YOU ENTERTAINED AND NOURISHED. #
  Alexa, what movies are playing? 
  Alexa, what [genre] movies are playing [future time]? 
  Alexa, find me a nearby [pizza] restaurant. 
@@ -53,7 +53,7 @@ Alexa, call [name].
  Alexa, find [genre]. 
  Alexa, how do you make [chocolate chip cookies]? 
  Alexa, how do you boil an egg? 
- ###############ALEXA COMMANDS TO HELP YOU CELEBRATE. ###############
+ #ALEXA COMMANDS TO HELP YOU CELEBRATE. #
  Alexa, Happy Birthday. 
 Alexa, sing Happy Birthday. 
  Alexa, tell me [holiday] joke. 
@@ -95,7 +95,7 @@ Alexa, sing Happy Birthday.
 Alexa, what are the Next holiday movies? 
  Alexa, sing me a holiday song. 
  Alexa, open my gift. 
- ###############ALEXA COMMANDS TO IMPRESS YOUR ENGLISH TEACHER. ###############
+ #ALEXA COMMANDS TO IMPRESS YOUR ENGLISH TEACHER. #
  Alexa, what is the definition of [word]? 
  Alexa, how do you spell [word]? 
  Alexa, what is another word for [word]? 
@@ -106,7 +106,7 @@ Alexa, what are the Next holiday movies?
  Alexa, what is the word of the day? 
  Alexa, give me a spelling bee word. 
  Alexa, how do you say [phrase] in [Spanish/German/Portugese/etc]. 
-############### ALEXA COMMANDS TO KEEP YOU ON TASK. ###############
+# ALEXA COMMANDS TO KEEP YOU ON TASK. #
  Alexa, add [go to the grocery store] to my to-do list. 
  Alexa, I need to make an appointment with [the doctor]. 
  Alexa, create a to-do. 
@@ -116,7 +116,7 @@ Alexa, what are the Next holiday movies?
  Alexa, remind me to check the oven in [5 minutes]. 
  Alexa, what are my reminders [this weekend]? 
  Alexa, what reminders do I have [tomorrow]? 
- ############### ALEXA COMMANDS TO KEEP YOU ACCURATE. ###############
+ # ALEXA COMMANDS TO KEEP YOU ACCURATE. #
  Alexa, what is 42 plus 42? 
  Alexa, what is 42 minus 42? 
  Alexa, what is 42 times 42? 
@@ -132,7 +132,7 @@ Alexa, what is 42 divided by 42?
  Alexa, is 42 a prime number? 
  Alexa, what is the value of Pi (to 42 decimal places)? 
  Alexa, divide by zero. 
- ###############ALEXA COMMANDS TO LISTEN TO MUSIC, BOOKS, ETC. ###############
+ #ALEXA COMMANDS TO LISTEN TO MUSIC, BOOKS, ETC. #
  Alexa, play some music. 
  Alexa, play [artist]. 
  Alexa, play [artist] in the living room. 
@@ -155,7 +155,7 @@ Alexa, what is 42 divided by 42?
  Alexa, what year did [band] release [song or album]? 
  Alexa, what is popular from [artist]? 
  Alexa, play the album [Bob Dylans Greatest Hits]. 
-###############Alexa, sample songs by [artist]. ###############
+#Alexa, sample songs by [artist]. #
  Alexa, find [song or album] by [artist]. 
  Alexa, play the song I just bought. 
  Alexa, thumbs down. 
@@ -187,7 +187,7 @@ Alexa, what is 42 divided by 42?
  Alexa, are you down with O.P.P.? 
  Alexa, I like this song. 
  Alexa, who put the bop in the bop sha bop sha bop? 
-  ###############ALEXA COMMANDS FOR EVERYTHING ELSE. ###############
+  #ALEXA COMMANDS FOR EVERYTHING ELSE. #
  Alexa, what is my commute look like? 
  Alexa, what is traffic like? 
 Alexa, lets chat. 
@@ -204,18 +204,18 @@ Alexa, lets chat.
  Alexa, pick a card. 
  Alexa, do you want to play a game? 
  Alexa, what are the Seven Wonders of the World? 
- ###############ALEXA COMMANDS TO GET THE NEWS. ###############
+ #ALEXA COMMANDS TO GET THE NEWS. #
  Alexa, what is my Flash Briefing? 
  Alexa, what is in the news? 
  Alexa, what is up? 
  Alexa, what is new? 
- ###############ALEXA COMMANDS TO KEEP YOU ON TRACK. ###############
+ #ALEXA COMMANDS TO KEEP YOU ON TRACK. #
  Alexa, what did I miss? 
  Alexa, what are my notifications? 
  Alexa, next. 
  Alexa, previous. 
  Alexa, delete all of my notifications. 
- ###############ALEXA COMMANDS TO HELP YOU SPEND YOUR MONEY! ############### 
+ #ALEXA COMMANDS TO HELP YOU SPEND YOUR MONEY! # 
  Alexa, wheres my stuff? 
 Alexa, track my order. 
  Alexa, add [item] to my cart. 
@@ -224,7 +224,7 @@ Alexa, track my order.
  Alexa, shop for new music by [artist]. 
  Alexa, buy [song or album] by [artist]. 
  Alexa, what are your deals? 
- ###############ALEXA COMMANDS TO HAVE FUN. ###############
+ #ALEXA COMMANDS TO HAVE FUN. #
  Alexa, give me an Easter egg. 
  Alexa, testing 1-2-3. 
  Alexa, good morning. 
