@@ -26,7 +26,8 @@ class _TTS:
     engine = None
     rate = None
     def __init__(self):
-        self.engine = pyttsx3.init(driverName='sapi5')
+#       self.engine = pyttsx3.init(driverName='sapi5')
+        self.engine = pyttsx3.init()
 
     def start(self,text):
         #Speech Cadence/rate 
