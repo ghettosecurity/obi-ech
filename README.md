@@ -1,6 +1,5 @@
 # Privacy, Obfuscation, Social and Ethical Issues of the Internet
 
-Obi-Ech
 Built to Obfuscate alexa dot/echo/auto/etc. smart devices by announcing random Alexa Smart Commands to any Alexa device. Source Code can be modified for other privacy intrusive technologies such as Google, Bixby, Siri, and more. This program attempts to obfuscate the following: 
 
 1) Voice (via pyttsx voices)
